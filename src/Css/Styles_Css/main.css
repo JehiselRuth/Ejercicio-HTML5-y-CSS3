@@ -1,0 +1,48 @@
+body { 
+    background-color: #f0f0f0;
+}
+#SubtitleHtml5 { 
+    background-color: #969696;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    padding: 7px;
+    padding-left: 60px;
+}
+#ParagraphHtml {
+    padding-right: 50px;
+    font-size: 25px;
+    text-align: justify;
+}
+#LogoHtml { 
+    padding-top: 50px;
+    display: flex;
+    align-items:initial;
+    justify-content: left;
+    height: 230px;
+    padding-bottom: 90px;
+
+}
+#SubtitleCSS3 { 
+    background-color: #969696;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    padding: 7px;
+    padding-left: 60px;
+}
+#LogoCss3 { 
+    padding-top: 80px;
+    padding-left: 45px;
+    padding-right: 50px;
+    display: flex;
+    align-items:initial;
+    justify-content: left;
+    height: 230px;
+}
+#ParagraphCss3 {
+    
+    padding-left: 40px;
+    font-size: 25px;
+    padding-bottom: 50px;
+    text-align: justify;
+    padding-bottom: 400px;
+}
