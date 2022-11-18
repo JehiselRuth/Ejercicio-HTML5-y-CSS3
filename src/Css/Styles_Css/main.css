@@ -1,5 +1,5 @@
 body { 
-    background-color: #f0f0f0;
+    background-color: #fffefe;
 }
 #SubtitleHtml5 { 
     background-color: #969696;
@@ -12,6 +12,7 @@ body {
     padding-right: 50px;
     font-size: 25px;
     text-align: justify;
+    
 }
 #LogoHtml { 
     padding-top: 50px;
@@ -20,6 +21,7 @@ body {
     justify-content: left;
     height: 230px;
     padding-bottom: 90px;
+    margin-bottom: 5%;
 
 }
 #SubtitleCSS3 { 
